@@ -24,17 +24,15 @@ import Day23
 import Day24
 import Day25
 
+import Browser
 import Html exposing (..)
+import Html.Attributes exposing (..)
+import Html.Events exposing (..)
 
 import Bootstrap.CDN as CDN
 import Bootstrap.Grid as Grid
 import Bootstrap.Grid.Row as Row
 import Bootstrap.Grid.Col as Col
-
-import Browser
-import Html exposing (..)
-import Html.Attributes exposing (..)
-import Html.Events exposing (..)
 
 type Day
   = D01 | D02 | D03 | D04 | D05
