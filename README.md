@@ -10,7 +10,7 @@ This project is a scaffolding to help you get started solving
 
 1. [Install Elm](https://guide.elm-lang.org/install/elm.html).
 
-2. Clone this repository.
+2. **Fork** this repository and **Clone** your fork.
 
 3. Jump into the repository directory in your terminal and run
 `elm reactor`.
