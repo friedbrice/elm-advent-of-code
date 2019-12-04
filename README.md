@@ -4,6 +4,8 @@ This project is a scaffolding to help you get started solving
 [Advent of Code 2019](https://adventofcode.com/2019) puzzles in
 [Elm](https://elm-lang.org/).
 
+![Screenshot](screenshot.jpg)
+
 ## Setup
 
 1. [Install Elm](https://guide.elm-lang.org/install/elm.html).
