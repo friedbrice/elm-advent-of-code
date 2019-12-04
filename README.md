@@ -6,14 +6,14 @@ This project is a scaffolding to help you get started solving
 
 ## Setup
 
-First, [install Elm](https://guide.elm-lang.org/install/elm.html).
+1. [Install Elm](https://guide.elm-lang.org/install/elm.html).
 
-Second, clone this repository.
+2. Clone this repository.
 
-Third, jump into the repository directory in your terminal and run
+3. Jump into the repository directory in your terminal and run
 `elm reactor`.
 
-Forth, navigate to
+4. Navigate to
 [http://localhost:8000/src/Main.elm](http://localhost:8000/src/Main.elm)
 in your browser.
 
