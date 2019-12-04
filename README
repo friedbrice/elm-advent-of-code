@@ -1,0 +1,22 @@
+# Advent of Code 2019 - Elm
+
+This is project is a scaffolding to help you get started solving
+[Advent of Code 2019][https://adventofcode.com/2019] puzzles in
+[Elm][https://elm-lang.org/].
+
+## Setup
+
+First, [install Elm][https://guide.elm-lang.org/install/elm.html].
+
+Second, clone the repository.
+
+Third, jump into the repository directory in your terminal and run `elm reactor`.
+
+Forth, navigate to [localhost:8000/src/Main.elm][http://localhost:8000/src/Main.elm]
+in your browser.
+
+You're ready to go. Put your code in the various `Day**.elm` files, save
+the file, refresh your browser, and run your code.
+
+You may also want editor integration for Elm. Personally, I use
+[Elm Syntax Highlighting][https://packagecontrol.io/packages/Elm%20Syntax%20Highlighting] for Sublime Text.
